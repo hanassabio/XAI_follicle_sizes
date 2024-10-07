@@ -38,6 +38,16 @@ tools
 data.table
 ggplot2
 
+  R Core Team (2024). _R: A Language and Environment for Statistical
+  Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+  
+  H. Wickham. ggplot2: Elegant Graphics for Data Analysis.
+  Springer-Verlag New York, 2016.
+
+  Barrett T, Dowle M, Srinivasan A (2023). _data.table: Extension of
+  data.frame_. R package version 1.14.10,
+  <https://CRAN.R-project.org/package=data.table>.
 
 ### R Session Information:
 ---------------------
